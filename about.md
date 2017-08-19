@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Acerca de nostros
 permalink: /about/
 ---
 
-Some information about you!
+Bienvenidos a nuestro blog de viajes
 
-### More Information
+### Mas información
 
-A place to include any other types of information that you'd like to include about yourself.
+En está pagina vamos a redactar algunos de nuestros viajes. El principal propósito es contarles nuestras experiencias de nuestro viaje por Asia y Mexico. Nuetro itinerario de viaje lo puedes incontrar en el siguiente [link](https://docs.google.com/spreadsheets/d/1twV3FeOVoyAGaJZS6zkz3YL73uVTAodr-1DvhO9W-AQ/edit?usp=sharing)
 
-### Contact me
+### Contáctanos
 
-[email@domain.com](mailto:email@domain.com)
+[engarpe861@gmail.com](mailto:engarpe861@gmail.com)
+[kpbsb@hotmail.com](mailto:kpbsb@hotmail.com)
